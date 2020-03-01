@@ -1,0 +1,7 @@
+domain: ght.dev
+repo: github.com/tsthght/mybuilder
+resources:
+- group: demo
+  kind: SidecarSet
+  version: v1alpha1
+version: "2"

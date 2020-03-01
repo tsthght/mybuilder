@@ -1,0 +1,7 @@
+apiVersion: demo.ght.dev/v1alpha1
+kind: SidecarSet
+metadata:
+  name: sidecarset-sample
+spec:
+  # Add fields here
+  foo: bar
